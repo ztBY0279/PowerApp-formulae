@@ -1,0 +1,2 @@
+PowerApps formula's:- 
+https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-if
